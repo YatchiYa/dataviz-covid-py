@@ -1,0 +1,61 @@
+ 
+ ------------------ 
+ raw_data_confirmed cases 
+   Province/State Country/Region       Lat  ...  4/11/21  4/12/21  4/13/21
+0            NaN    Afghanistan  33.93911  ...    57160    57242    57364
+1            NaN        Albania  41.15330  ...   128393   128518   128752
+2            NaN        Algeria  28.03390  ...   118516   118645   118799
+3            NaN        Andorra  42.50630  ...    12545    12581    12614
+4            NaN         Angola -11.20270  ...    23457    23549    23697
+
+[5 rows x 452 columns]
+    Province/State      Country/Region        Lat  ...  4/11/21  4/12/21  4/13/21
+269            NaN             Vietnam  14.058324  ...     2693     2705     2714
+270            NaN  West Bank and Gaza  31.952200  ...   268132   270856   272767
+271            NaN               Yemen  15.552727  ...     5357     5446     5507
+272            NaN              Zambia -13.133897  ...    90029    90064    90218
+273            NaN            Zimbabwe -19.015438  ...    37288    37307    37330
+
+[5 rows x 452 columns] 
+
+
+
+ ------------------ 
+ raw_data_deaths cases 
+   Province/State Country/Region       Lat  ...  4/11/21  4/12/21  4/13/21
+0            NaN    Afghanistan  33.93911  ...     2521     2529     2529
+1            NaN        Albania  41.15330  ...     2317     2321     2326
+2            NaN        Algeria  28.03390  ...     3130     3134     3137
+3            NaN        Andorra  42.50630  ...      120      121      121
+4            NaN         Angola -11.20270  ...      553      554      554
+
+[5 rows x 452 columns]
+    Province/State      Country/Region        Lat  ...  4/11/21  4/12/21  4/13/21
+269            NaN             Vietnam  14.058324  ...       35       35       35
+270            NaN  West Bank and Gaza  31.952200  ...     2860     2883     2901
+271            NaN               Yemen  15.552727  ...     1049     1068     1073
+272            NaN              Zambia -13.133897  ...     1226     1227     1229
+273            NaN            Zimbabwe -19.015438  ...     1538     1542     1543
+
+[5 rows x 452 columns] 
+
+
+
+ ------------------ 
+ raw_data_recovered cases 
+   Province/State Country/Region       Lat  ...  4/11/21  4/12/21  4/13/21
+0            NaN    Afghanistan  33.93911  ...    51989    52005    52013
+1            NaN        Albania  41.15330  ...    97723    98269    98903
+2            NaN        Algeria  28.03390  ...    82600    82704    82813
+3            NaN        Andorra  42.50630  ...    11825    11890    11932
+4            NaN         Angola -11.20270  ...    22058    22093    22115
+
+[5 rows x 452 columns]
+    Province/State      Country/Region        Lat  ...  4/11/21  4/12/21  4/13/21
+254            NaN             Vietnam  14.058324  ...     2429     2445     2445
+255            NaN  West Bank and Gaza  31.952200  ...   232960   234698   237046
+256            NaN               Yemen  15.552727  ...     2053     2059     2070
+257            NaN              Zambia -13.133897  ...    88018    88077    88144
+258            NaN            Zimbabwe -19.015438  ...    34873    34901    34932
+
+[5 rows x 452 columns]

@@ -1,0 +1,4 @@
+ 
+ ------------------ 
+ cases :    country  confirmed
+0  Vanuatu        1.0

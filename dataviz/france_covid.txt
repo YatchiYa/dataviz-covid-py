@@ -1,0 +1,9 @@
+ 
+ ------------------ 
+ france covid_confirmed cases : 2677666.0 
+ ------------------ 
+ france covid_active cases : 2412765.0 
+ ------------------ 
+ france covid_recoverd cases : 200142.0 
+ ------------------ 
+ france covid_deaths cases : 64759.0

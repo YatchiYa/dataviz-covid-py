@@ -1,0 +1,25 @@
+ 
+ ------------------ 
+ covid_confirmed cases 
+ country
+US              20061903.0
+India           10266674.0
+Brazil           7675973.0
+Russia           3127347.0
+France           2677666.0
+UK               2496235.0
+Turkey           2208652.0
+Italy            2107166.0
+Spain            1928265.0
+Germany          1760520.0
+Colombia         1642775.0
+Argentina        1625514.0
+Mexico           1426094.0
+Poland           1294878.0
+Iran             1225142.0
+Ukraine          1086997.0
+South Africa     1057161.0
+Peru             1015137.0
+Netherlands       808382.0
+Indonesia         743198.0
+Name: confirmed, dtype: float64

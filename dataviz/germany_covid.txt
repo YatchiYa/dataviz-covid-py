@@ -1,0 +1,9 @@
+ 
+ ------------------ 
+ Germany covid_confirmed cases : 1760520.0 
+ ------------------ 
+ Germany covid_active cases : 376021.0 
+ ------------------ 
+ Germany covid_recoverd cases : 1350708.0 
+ ------------------ 
+ Germany covid_deaths cases : 33791.0
